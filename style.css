@@ -1,0 +1,46 @@
+body{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.input{
+    text-align: right;
+    padding-top:25px;
+}
+.snd{
+    float: left;
+    width: 30px;
+    position: relative;
+    right: 20px;
+    border-radius: 5px;
+    
+    
+
+}
+#shape2{
+    width: 300px;
+    height: 600px;
+    background-color: black;
+    border-radius: 10%;
+
+    
+    
+}
+.button{
+    float: left;
+    position: relative;
+    margin-left: 20px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: rgba(179, 102, 179, 0);
+    box-shadow: 2px 2px 4px rgba(0,0 ,0,0.1);
+    margin-top:20px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: 15px;
+    width: 5px;
+    height: 2px;
+}
